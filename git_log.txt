@@ -1,0 +1,57 @@
+commit 08942b549e5e80874770465f994bab8933b7b3c9
+Merge: dbafeaa b8a508e
+Author: samit48 <samuelteshale48@gmail.com>
+Date:   Thu Sep 4 11:36:00 2025 -0700
+
+    Resolved merge conflict in index.html
+
+commit b8a508ed9dd1a88ef495a73d8fc9967051b1e874
+Author: samit48 <samuelteshale48@gmail.com>
+Date:   Thu Sep 4 11:32:17 2025 -0700
+
+    Kept only favorite game div in index-fix
+
+commit dbafeaa90c9720dfc1e0814cd321ec73eedd9fdb
+Author: samit48 <samuelteshale48@gmail.com>
+Date:   Thu Sep 4 11:31:15 2025 -0700
+
+    Kept only favorite food div in main
+
+commit c6c418622bfee943c813cb88f6418f98892e7a40
+Author: samit48 <samuelteshale48@gmail.com>
+Date:   Thu Sep 4 11:28:30 2025 -0700
+
+    Added favorite game div in index-fix
+
+commit 1a58bf2ea7d60acb478d023dd04db1af86814e53
+Author: samit48 <samuelteshale48@gmail.com>
+Date:   Thu Sep 4 11:26:41 2025 -0700
+
+    Added favorite food div in main
+
+commit 9a5ab4fdaafdc07790ae0a089bd6077f73c7686c
+Author: samit48 <samuelteshale48@gmail.com>
+Date:   Thu Sep 4 11:23:51 2025 -0700
+
+    Added README.md
+
+commit b9bcfbd74b7bdb59dc1235c58612a25b62cf1c27
+Merge: 1d2bfc0 aedb919
+Author: samit48 <64316661+samit48@users.noreply.github.com>
+Date:   Thu Sep 4 11:22:49 2025 -0700
+
+    Merge pull request #1 from samit48/info-fill
+    
+    Filled blanks in index.html
+
+commit aedb919175d2db59fba7f7a287b9d89c8945f114
+Author: samit48 <samuelteshale48@gmail.com>
+Date:   Thu Sep 4 11:02:16 2025 -0700
+
+    Filled blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
